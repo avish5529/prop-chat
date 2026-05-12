@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "all_features": [
+    "opponent_team",
+    "prop_type",
+    "line_vs_season",
+    "line_vs_recent",
+    "line_vs_last_5",
+    "line_difficulty",
+    "consistency",
+    "avg_vs_opponent",
+    "opp_def_rating",
+    "opp_pace",
+    "closing_line",
+    "season_avg",
+    "last_10_avg",
+    "last_5_avg",
+    "is_home",
+    "is_b2b",
+    "days_rest",
+    "minutes_avg",
+    "games_played"
+  ],
+  "categorical_features": [
+    "opponent_team",
+    "prop_type"
+  ],
+  "numeric_features": [
+    "line_vs_season",
+    "line_vs_recent",
+    "line_vs_last_5",
+    "line_difficulty",
+    "consistency",
+    "avg_vs_opponent",
+    "opp_def_rating",
+    "opp_pace",
+    "closing_line",
+    "season_avg",
+    "last_10_avg",
+    "last_5_avg",
+    "is_home",
+    "is_b2b",
+    "days_rest",
+    "minutes_avg",
+    "games_played"
+  ],
+  "created_at": "2026-02-25T13:24:58.775991",
+  "metrics": {
+    "train": {
+      "accuracy": 0.6488416507514739,
+      "brier_score": 0.21825573971223913,
+      "log_loss": 0.6262218850479112,
+      "samples": 12043
+    },
+    "val": {
+      "accuracy": 0.5672751859364435,
+      "brier_score": 0.2417754593252606,
+      "log_loss": 0.6763211869802336,
+      "samples": 1479
+    },
+    "test": {
+      "accuracy": 0.6070991432068543,
+      "brier_score": 0.23003895110869416,
+      "log_loss": 0.6517911758972458,
+      "samples": 1634
+    },
+    "feature_importance": {
+      "avg_vs_opponent": 42.01082658598053,
+      "minutes_avg": 11.644480133403972,
+      "closing_line": 6.694390641434196,
+      "prop_type": 5.850598086472707,
+      "games_played": 5.054028700233387,
+      "season_avg": 4.877311658849976,
+      "last_10_avg": 4.400717144880586,
+      "last_5_avg": 3.946731981800299,
+      "opponent_team": 3.6593214760602817,
+      "is_home": 2.0451745409621434,
+      "line_vs_last_5": 1.6897989363180916,
+      "days_rest": 1.5655010473765432,
+      "consistency": 1.533777512771299,
+      "line_vs_season": 1.270126548989977,
+      "opp_def_rating": 1.1229194237631446,
+      "opp_pace": 1.0636943361519904,
+      "line_vs_recent": 0.7689197705726591,
+      "is_b2b": 0.4500725274934134,
+      "line_difficulty": 0.35160894648484836
+    },
+    "roi_simulation": {
+      "threshold_55": {
+        "threshold": 0.55,
+        "total_bets": 950,
+        "wins": 637,
+        "win_rate": 0.6705263157894736,
+        "roi": 0.2800956937799043
+      },
+      "threshold_60": {
+        "threshold": 0.6,
+        "total_bets": 475,
+        "wins": 357,
+        "win_rate": 0.751578947368421,
+        "roi": 0.43483253588516746
+      }
+    }
+  }
+}

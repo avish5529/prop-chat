@@ -1,0 +1,224 @@
+{
+  "season": 2026,
+  "source": "baseball_reference",
+  "fetched_at": "2026-04-17T15:22:38.853446",
+  "count": 27,
+  "teams": {
+    "Arizona": {
+      "team": "Arizona",
+      "k_pct": 23.2,
+      "bb_pct": 6.7,
+      "pa": 689,
+      "so": 160,
+      "source": "baseball_reference_2026"
+    },
+    "Athletics": {
+      "team": "Athletics",
+      "k_pct": 26.2,
+      "bb_pct": 9.5,
+      "pa": 713,
+      "so": 187,
+      "source": "baseball_reference_2026"
+    },
+    "Atlanta": {
+      "team": "Atlanta",
+      "k_pct": 19.6,
+      "bb_pct": 8.6,
+      "pa": 724,
+      "so": 142,
+      "source": "baseball_reference_2026"
+    },
+    "Baltimore": {
+      "team": "Baltimore",
+      "k_pct": 23.9,
+      "bb_pct": 10.8,
+      "pa": 716,
+      "so": 171,
+      "source": "baseball_reference_2026"
+    },
+    "Boston": {
+      "team": "Boston",
+      "k_pct": 23.4,
+      "bb_pct": 8.9,
+      "pa": 684,
+      "so": 160,
+      "source": "baseball_reference_2026"
+    },
+    "Chicago": {
+      "team": "Chicago",
+      "k_pct": 24.2,
+      "bb_pct": 11.3,
+      "pa": 1371,
+      "so": 332,
+      "source": "baseball_reference_2026"
+    },
+    "Cincinnati": {
+      "team": "Cincinnati",
+      "k_pct": 24.9,
+      "bb_pct": 11.8,
+      "pa": 706,
+      "so": 176,
+      "source": "baseball_reference_2026"
+    },
+    "Cleveland": {
+      "team": "Cleveland",
+      "k_pct": 20.8,
+      "bb_pct": 9.9,
+      "pa": 736,
+      "so": 153,
+      "source": "baseball_reference_2026"
+    },
+    "Colorado": {
+      "team": "Colorado",
+      "k_pct": 27.2,
+      "bb_pct": 8.0,
+      "pa": 714,
+      "so": 194,
+      "source": "baseball_reference_2026"
+    },
+    "Detroit": {
+      "team": "Detroit",
+      "k_pct": 22.5,
+      "bb_pct": 10.0,
+      "pa": 708,
+      "so": 159,
+      "source": "baseball_reference_2026"
+    },
+    "Houston": {
+      "team": "Houston",
+      "k_pct": 19.9,
+      "bb_pct": 11.6,
+      "pa": 787,
+      "so": 157,
+      "source": "baseball_reference_2026"
+    },
+    "Kansas City": {
+      "team": "Kansas City",
+      "k_pct": 22.8,
+      "bb_pct": 9.6,
+      "pa": 690,
+      "so": 157,
+      "source": "baseball_reference_2026"
+    },
+    "Los Angeles": {
+      "team": "Los Angeles",
+      "k_pct": 23.8,
+      "bb_pct": 11.4,
+      "pa": 1476,
+      "so": 351,
+      "source": "baseball_reference_2026"
+    },
+    "Miami": {
+      "team": "Miami",
+      "k_pct": 21.2,
+      "bb_pct": 8.6,
+      "pa": 713,
+      "so": 151,
+      "source": "baseball_reference_2026"
+    },
+    "Milwaukee": {
+      "team": "Milwaukee",
+      "k_pct": 22.0,
+      "bb_pct": 12.8,
+      "pa": 695,
+      "so": 153,
+      "source": "baseball_reference_2026"
+    },
+    "Minnesota": {
+      "team": "Minnesota",
+      "k_pct": 23.8,
+      "bb_pct": 11.4,
+      "pa": 722,
+      "so": 172,
+      "source": "baseball_reference_2026"
+    },
+    "New York": {
+      "team": "New York",
+      "k_pct": 23.5,
+      "bb_pct": 10.2,
+      "pa": 1428,
+      "so": 336,
+      "source": "baseball_reference_2026"
+    },
+    "Philadelphia": {
+      "team": "Philadelphia",
+      "k_pct": 23.1,
+      "bb_pct": 8.7,
+      "pa": 680,
+      "so": 157,
+      "source": "baseball_reference_2026"
+    },
+    "Pittsburgh": {
+      "team": "Pittsburgh",
+      "k_pct": 23.0,
+      "bb_pct": 10.6,
+      "pa": 753,
+      "so": 173,
+      "source": "baseball_reference_2026"
+    },
+    "San Diego": {
+      "team": "San Diego",
+      "k_pct": 19.3,
+      "bb_pct": 9.3,
+      "pa": 710,
+      "so": 137,
+      "source": "baseball_reference_2026"
+    },
+    "San Francisco": {
+      "team": "San Francisco",
+      "k_pct": 21.2,
+      "bb_pct": 5.6,
+      "pa": 676,
+      "so": 143,
+      "source": "baseball_reference_2026"
+    },
+    "Seattle": {
+      "team": "Seattle",
+      "k_pct": 25.4,
+      "bb_pct": 11.6,
+      "pa": 757,
+      "so": 192,
+      "source": "baseball_reference_2026"
+    },
+    "St. Louis": {
+      "team": "St. Louis",
+      "k_pct": 20.3,
+      "bb_pct": 11.2,
+      "pa": 695,
+      "so": 141,
+      "source": "baseball_reference_2026"
+    },
+    "Tampa Bay": {
+      "team": "Tampa Bay",
+      "k_pct": 18.2,
+      "bb_pct": 9.0,
+      "pa": 713,
+      "so": 130,
+      "source": "baseball_reference_2026"
+    },
+    "Texas": {
+      "team": "Texas",
+      "k_pct": 25.0,
+      "bb_pct": 9.7,
+      "pa": 713,
+      "so": 178,
+      "source": "baseball_reference_2026"
+    },
+    "Toronto": {
+      "team": "Toronto",
+      "k_pct": 18.5,
+      "bb_pct": 8.7,
+      "pa": 675,
+      "so": 125,
+      "source": "baseball_reference_2026"
+    },
+    "Washington": {
+      "team": "Washington",
+      "k_pct": 20.2,
+      "bb_pct": 8.6,
+      "pa": 753,
+      "so": 152,
+      "source": "baseball_reference_2026"
+    }
+  }
+}

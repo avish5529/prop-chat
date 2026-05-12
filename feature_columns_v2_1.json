@@ -1,0 +1,48 @@
+{
+  "categorical": [
+    "opponent_team",
+    "prop_type",
+    "player_position"
+  ],
+  "numeric": [
+    "closing_line",
+    "season_avg",
+    "last_10_avg",
+    "std_dev",
+    "minutes_avg",
+    "is_home",
+    "is_b2b",
+    "days_rest",
+    "opp_def_rating",
+    "opp_pace",
+    "avg_vs_opponent",
+    "line_vs_season",
+    "line_vs_last_5",
+    "line_difficulty",
+    "consistency",
+    "dvp_rank",
+    "dvp_allowed"
+  ],
+  "all": [
+    "opponent_team",
+    "prop_type",
+    "player_position",
+    "closing_line",
+    "season_avg",
+    "last_10_avg",
+    "std_dev",
+    "minutes_avg",
+    "is_home",
+    "is_b2b",
+    "days_rest",
+    "opp_def_rating",
+    "opp_pace",
+    "avg_vs_opponent",
+    "line_vs_season",
+    "line_vs_last_5",
+    "line_difficulty",
+    "consistency",
+    "dvp_rank",
+    "dvp_allowed"
+  ]
+}

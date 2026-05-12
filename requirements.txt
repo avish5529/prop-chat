@@ -1,0 +1,16 @@
+fastapi>=0.109.0
+uvicorn>=0.27.0
+httpx>=0.26.0
+python-dotenv>=1.0.0
+pydantic>=2.6.0
+catboost>=1.2
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+
+# NBA
+nba_api>=1.4.1
+
+# MLB
+pybaseball>=2.2.7
+MLB-StatsAPI>=1.7.0
+scipy>=1.12.0

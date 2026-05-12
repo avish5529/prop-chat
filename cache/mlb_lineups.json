@@ -1,0 +1,1766 @@
+{
+  "date": "2026-05-03",
+  "total_games": 15,
+  "confirmed_lineups": 13,
+  "games": {
+    "823711": {
+      "game_id": 823711,
+      "home_team": "Twins",
+      "home_abbrev": "MIN",
+      "away_team": "Blue Jays",
+      "away_abbrev": "TOR",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Buxton",
+          "id": 621439,
+          "position": "DH"
+        },
+        {
+          "order": 2,
+          "name": "Larnach",
+          "id": 663616,
+          "position": "LF"
+        },
+        {
+          "order": 3,
+          "name": "Martin",
+          "id": 668885,
+          "position": "CF"
+        },
+        {
+          "order": 4,
+          "name": "Caratini",
+          "id": 605170,
+          "position": "C"
+        },
+        {
+          "order": 5,
+          "name": "Keaschall",
+          "id": 807712,
+          "position": "2B"
+        },
+        {
+          "order": 6,
+          "name": "Clemens",
+          "id": 665019,
+          "position": "1B"
+        },
+        {
+          "order": 7,
+          "name": "Lewis, R",
+          "id": 668904,
+          "position": "3B"
+        },
+        {
+          "order": 8,
+          "name": "Wallner",
+          "id": 670242,
+          "position": "RF"
+        },
+        {
+          "order": 9,
+          "name": "Lee, B",
+          "id": 686797,
+          "position": "SS"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Pi\u00f1ango",
+          "id": 682818,
+          "position": "LF"
+        },
+        {
+          "order": 2,
+          "name": "Okamoto",
+          "id": 672960,
+          "position": "3B"
+        },
+        {
+          "order": 3,
+          "name": "Guerrero Jr.",
+          "id": 665489,
+          "position": "DH"
+        },
+        {
+          "order": 4,
+          "name": "S\u00e1nchez, J",
+          "id": 660821,
+          "position": "RF"
+        },
+        {
+          "order": 5,
+          "name": "Sosa, L",
+          "id": 672820,
+          "position": "1B"
+        },
+        {
+          "order": 6,
+          "name": "Varsho",
+          "id": 662139,
+          "position": "CF"
+        },
+        {
+          "order": 7,
+          "name": "Clement",
+          "id": 676391,
+          "position": "2B"
+        },
+        {
+          "order": 8,
+          "name": "Gim\u00e9nez",
+          "id": 665926,
+          "position": "SS"
+        },
+        {
+          "order": 9,
+          "name": "Heineman",
+          "id": 623168,
+          "position": "C"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Blue Jays Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Blue Jays Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "824769": {
+      "game_id": 824769,
+      "home_team": "Red Sox",
+      "home_abbrev": "BOS",
+      "away_team": "Astros",
+      "away_abbrev": "HOU",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Duran, Ja",
+          "id": 680776,
+          "position": "LF"
+        },
+        {
+          "order": 2,
+          "name": "Contreras, Wn",
+          "id": 575929,
+          "position": "1B"
+        },
+        {
+          "order": 3,
+          "name": "Anthony",
+          "id": 701350,
+          "position": "DH"
+        },
+        {
+          "order": 4,
+          "name": "Abreu, W",
+          "id": 677800,
+          "position": "RF"
+        },
+        {
+          "order": 5,
+          "name": "Monasterio",
+          "id": 655316,
+          "position": "SS"
+        },
+        {
+          "order": 6,
+          "name": "Mayer",
+          "id": 691785,
+          "position": "2B"
+        },
+        {
+          "order": 7,
+          "name": "Rafaela",
+          "id": 678882,
+          "position": "CF"
+        },
+        {
+          "order": 8,
+          "name": "Narv\u00e1ez",
+          "id": 665966,
+          "position": "C"
+        },
+        {
+          "order": 9,
+          "name": "Durbin",
+          "id": 702332,
+          "position": "3B"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Correa",
+          "id": 621043,
+          "position": "SS"
+        },
+        {
+          "order": 2,
+          "name": "Alvarez, Y",
+          "id": 670541,
+          "position": "DH"
+        },
+        {
+          "order": 3,
+          "name": "Paredes",
+          "id": 670623,
+          "position": "3B"
+        },
+        {
+          "order": 4,
+          "name": "Walker, C",
+          "id": 572233,
+          "position": "1B"
+        },
+        {
+          "order": 5,
+          "name": "Altuve",
+          "id": 514888,
+          "position": "2B"
+        },
+        {
+          "order": 6,
+          "name": "Matthews",
+          "id": 694728,
+          "position": "CF"
+        },
+        {
+          "order": 7,
+          "name": "Smith",
+          "id": 701358,
+          "position": "RF"
+        },
+        {
+          "order": 8,
+          "name": "V\u00e1zquez, C",
+          "id": 543877,
+          "position": "C"
+        },
+        {
+          "order": 9,
+          "name": "Harris, D",
+          "id": 687957,
+          "position": "LF"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Astros Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Astros Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "823387": {
+      "game_id": 823387,
+      "home_team": "Pirates",
+      "home_abbrev": "PIT",
+      "away_team": "Reds",
+      "away_abbrev": "CIN",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Cruz, O",
+          "id": 665833,
+          "position": "CF"
+        },
+        {
+          "order": 2,
+          "name": "Lowe, B",
+          "id": 664040,
+          "position": "2B"
+        },
+        {
+          "order": 3,
+          "name": "Reynolds, B",
+          "id": 668804,
+          "position": "LF"
+        },
+        {
+          "order": 4,
+          "name": "O'Hearn",
+          "id": 656811,
+          "position": "RF"
+        },
+        {
+          "order": 5,
+          "name": "Gonzales, N",
+          "id": 693304,
+          "position": "3B"
+        },
+        {
+          "order": 6,
+          "name": "Ozuna",
+          "id": 542303,
+          "position": "DH"
+        },
+        {
+          "order": 7,
+          "name": "Horwitz",
+          "id": 687462,
+          "position": "1B"
+        },
+        {
+          "order": 8,
+          "name": "Griffin",
+          "id": 804606,
+          "position": "SS"
+        },
+        {
+          "order": 9,
+          "name": "Bart",
+          "id": 663698,
+          "position": "C"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Friedl",
+          "id": 670770,
+          "position": "CF"
+        },
+        {
+          "order": 2,
+          "name": "Bleday",
+          "id": 668709,
+          "position": "LF"
+        },
+        {
+          "order": 3,
+          "name": "De La Cruz, E",
+          "id": 682829,
+          "position": "SS"
+        },
+        {
+          "order": 4,
+          "name": "Stewart, S",
+          "id": 701398,
+          "position": "3B"
+        },
+        {
+          "order": 5,
+          "name": "Lowe, N",
+          "id": 663993,
+          "position": "DH"
+        },
+        {
+          "order": 6,
+          "name": "Steer",
+          "id": 668715,
+          "position": "1B"
+        },
+        {
+          "order": 7,
+          "name": "Benson",
+          "id": 666181,
+          "position": "RF"
+        },
+        {
+          "order": 8,
+          "name": "Trevino",
+          "id": 624431,
+          "position": "C"
+        },
+        {
+          "order": 9,
+          "name": "McLain, M",
+          "id": 680574,
+          "position": "2B"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Reds Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Reds Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "823555": {
+      "game_id": 823555,
+      "home_team": "Yankees",
+      "home_abbrev": "NYY",
+      "away_team": "Orioles",
+      "away_abbrev": "BAL",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Grisham",
+          "id": 663757,
+          "position": "CF"
+        },
+        {
+          "order": 2,
+          "name": "Rice",
+          "id": 700250,
+          "position": "1B"
+        },
+        {
+          "order": 3,
+          "name": "Judge",
+          "id": 592450,
+          "position": "RF"
+        },
+        {
+          "order": 4,
+          "name": "Bellinger",
+          "id": 641355,
+          "position": "LF"
+        },
+        {
+          "order": 5,
+          "name": "Chisholm Jr.",
+          "id": 665862,
+          "position": "2B"
+        },
+        {
+          "order": 6,
+          "name": "Dom\u00ednguez",
+          "id": 691176,
+          "position": "DH"
+        },
+        {
+          "order": 7,
+          "name": "Wells, A",
+          "id": 669224,
+          "position": "C"
+        },
+        {
+          "order": 8,
+          "name": "McMahon",
+          "id": 641857,
+          "position": "3B"
+        },
+        {
+          "order": 9,
+          "name": "Caballero",
+          "id": 676609,
+          "position": "SS"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Ward",
+          "id": 621493,
+          "position": "LF"
+        },
+        {
+          "order": 2,
+          "name": "Rutschman",
+          "id": 668939,
+          "position": "C"
+        },
+        {
+          "order": 3,
+          "name": "Alonso",
+          "id": 624413,
+          "position": "DH"
+        },
+        {
+          "order": 4,
+          "name": "O'Neill",
+          "id": 641933,
+          "position": "RF"
+        },
+        {
+          "order": 5,
+          "name": "Mayo",
+          "id": 691723,
+          "position": "1B"
+        },
+        {
+          "order": 6,
+          "name": "Taveras, L",
+          "id": 665750,
+          "position": "CF"
+        },
+        {
+          "order": 7,
+          "name": "Jackson, J",
+          "id": 669236,
+          "position": "2B"
+        },
+        {
+          "order": 8,
+          "name": "Wilson, W",
+          "id": 642215,
+          "position": "3B"
+        },
+        {
+          "order": 9,
+          "name": "Alexander",
+          "id": 677942,
+          "position": "SS"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Orioles Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Orioles Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "822742": {
+      "game_id": 822742,
+      "home_team": "Nationals",
+      "home_abbrev": "WSH",
+      "away_team": "Brewers",
+      "away_abbrev": "MIL",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Wood",
+          "id": 695578,
+          "position": "RF"
+        },
+        {
+          "order": 2,
+          "name": "Garc\u00eda Jr., L",
+          "id": 671277,
+          "position": "1B"
+        },
+        {
+          "order": 3,
+          "name": "Young",
+          "id": 696285,
+          "position": "CF"
+        },
+        {
+          "order": 4,
+          "name": "Abrams",
+          "id": 682928,
+          "position": "SS"
+        },
+        {
+          "order": 5,
+          "name": "Lile",
+          "id": 695734,
+          "position": "LF"
+        },
+        {
+          "order": 6,
+          "name": "Nu\u00f1ez, N",
+          "id": 683083,
+          "position": "2B"
+        },
+        {
+          "order": 7,
+          "name": "Tena",
+          "id": 677588,
+          "position": "DH"
+        },
+        {
+          "order": 8,
+          "name": "Vivas",
+          "id": 678391,
+          "position": "3B"
+        },
+        {
+          "order": 9,
+          "name": "Ruiz, K",
+          "id": 660688,
+          "position": "C"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Rengifo",
+          "id": 650859,
+          "position": "3B"
+        },
+        {
+          "order": 2,
+          "name": "Contreras, Wm",
+          "id": 661388,
+          "position": "C"
+        },
+        {
+          "order": 3,
+          "name": "S\u00e1nchez",
+          "id": 596142,
+          "position": "DH"
+        },
+        {
+          "order": 4,
+          "name": "Bauers",
+          "id": 641343,
+          "position": "1B"
+        },
+        {
+          "order": 5,
+          "name": "Mitchell",
+          "id": 669003,
+          "position": "CF"
+        },
+        {
+          "order": 6,
+          "name": "Lockridge",
+          "id": 663604,
+          "position": "LF"
+        },
+        {
+          "order": 7,
+          "name": "Frelick",
+          "id": 686217,
+          "position": "RF"
+        },
+        {
+          "order": 8,
+          "name": "Hamilton, D",
+          "id": 666152,
+          "position": "2B"
+        },
+        {
+          "order": 9,
+          "name": "Ortiz, J",
+          "id": 687401,
+          "position": "SS"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Brewers Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Brewers Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "822987": {
+      "game_id": 822987,
+      "home_team": "Rays",
+      "home_abbrev": "TB",
+      "away_team": "Giants",
+      "away_abbrev": "SF",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Simpson",
+          "id": 802415,
+          "position": "LF"
+        },
+        {
+          "order": 2,
+          "name": "Caminero",
+          "id": 691406,
+          "position": "3B"
+        },
+        {
+          "order": 3,
+          "name": "Aranda",
+          "id": 666018,
+          "position": "DH"
+        },
+        {
+          "order": 4,
+          "name": "Vilade",
+          "id": 668723,
+          "position": "1B"
+        },
+        {
+          "order": 5,
+          "name": "Fraley",
+          "id": 641584,
+          "position": "RF"
+        },
+        {
+          "order": 6,
+          "name": "Williamson",
+          "id": 810938,
+          "position": "2B"
+        },
+        {
+          "order": 7,
+          "name": "Mullins",
+          "id": 656775,
+          "position": "CF"
+        },
+        {
+          "order": 8,
+          "name": "Fortes",
+          "id": 663743,
+          "position": "C"
+        },
+        {
+          "order": 9,
+          "name": "Walls",
+          "id": 670764,
+          "position": "SS"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Ramos, H",
+          "id": 671218,
+          "position": "LF"
+        },
+        {
+          "order": 2,
+          "name": "Devers",
+          "id": 646240,
+          "position": "1B"
+        },
+        {
+          "order": 3,
+          "name": "Schmitt",
+          "id": 669477,
+          "position": "DH"
+        },
+        {
+          "order": 4,
+          "name": "Arraez",
+          "id": 650333,
+          "position": "2B"
+        },
+        {
+          "order": 5,
+          "name": "Chapman, M",
+          "id": 656305,
+          "position": "3B"
+        },
+        {
+          "order": 6,
+          "name": "Adames",
+          "id": 642715,
+          "position": "SS"
+        },
+        {
+          "order": 7,
+          "name": "Lee, J",
+          "id": 808982,
+          "position": "CF"
+        },
+        {
+          "order": 8,
+          "name": "Encarnacion",
+          "id": 666464,
+          "position": "RF"
+        },
+        {
+          "order": 9,
+          "name": "Haase",
+          "id": 606992,
+          "position": "C"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Giants Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Giants Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "823875": {
+      "game_id": 823875,
+      "home_team": "Marlins",
+      "home_abbrev": "MIA",
+      "away_team": "Phillies",
+      "away_abbrev": "PHI",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Lopez, O",
+          "id": 672640,
+          "position": "SS"
+        },
+        {
+          "order": 2,
+          "name": "Ram\u00edrez",
+          "id": 682663,
+          "position": "C"
+        },
+        {
+          "order": 3,
+          "name": "Stowers",
+          "id": 669065,
+          "position": "RF"
+        },
+        {
+          "order": 4,
+          "name": "Norby",
+          "id": 681393,
+          "position": "1B"
+        },
+        {
+          "order": 5,
+          "name": "Edwards, X",
+          "id": 669364,
+          "position": "2B"
+        },
+        {
+          "order": 6,
+          "name": "Morel, C",
+          "id": 666624,
+          "position": "DH"
+        },
+        {
+          "order": 7,
+          "name": "Jim\u00e9nez, L",
+          "id": 677870,
+          "position": "3B"
+        },
+        {
+          "order": 8,
+          "name": "Ruiz, E",
+          "id": 665923,
+          "position": "CF"
+        },
+        {
+          "order": 9,
+          "name": "Sanoja",
+          "id": 691594,
+          "position": "LF"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Turner",
+          "id": 607208,
+          "position": "SS"
+        },
+        {
+          "order": 2,
+          "name": "Schwarber",
+          "id": 656941,
+          "position": "DH"
+        },
+        {
+          "order": 3,
+          "name": "Harper, B",
+          "id": 547180,
+          "position": "1B"
+        },
+        {
+          "order": 4,
+          "name": "Bohm",
+          "id": 664761,
+          "position": "3B"
+        },
+        {
+          "order": 5,
+          "name": "Marsh",
+          "id": 669016,
+          "position": "RF"
+        },
+        {
+          "order": 6,
+          "name": "Realmuto",
+          "id": 592663,
+          "position": "C"
+        },
+        {
+          "order": 7,
+          "name": "Stott",
+          "id": 681082,
+          "position": "2B"
+        },
+        {
+          "order": 8,
+          "name": "Reyes, F",
+          "id": 694025,
+          "position": "LF"
+        },
+        {
+          "order": 9,
+          "name": "Crawford",
+          "id": 702222,
+          "position": "CF"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Phillies Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Phillies Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "823065": {
+      "game_id": 823065,
+      "home_team": "Cardinals",
+      "home_abbrev": "STL",
+      "away_team": "Dodgers",
+      "away_abbrev": "LAD",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Wetherholt",
+          "id": 802139,
+          "position": "2B"
+        },
+        {
+          "order": 2,
+          "name": "Herrera",
+          "id": 671056,
+          "position": "DH"
+        },
+        {
+          "order": 3,
+          "name": "Walker, J",
+          "id": 691023,
+          "position": "RF"
+        },
+        {
+          "order": 4,
+          "name": "Burleson",
+          "id": 676475,
+          "position": "1B"
+        },
+        {
+          "order": 5,
+          "name": "Winn",
+          "id": 691026,
+          "position": "SS"
+        },
+        {
+          "order": 6,
+          "name": "Ferm\u00edn",
+          "id": 665877,
+          "position": "LF"
+        },
+        {
+          "order": 7,
+          "name": "Church",
+          "id": 701675,
+          "position": "CF"
+        },
+        {
+          "order": 8,
+          "name": "Pag\u00e9s, P",
+          "id": 686780,
+          "position": "C"
+        },
+        {
+          "order": 9,
+          "name": "Ur\u00edas, R",
+          "id": 602104,
+          "position": "3B"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Ohtani",
+          "id": 660271,
+          "position": "DH"
+        },
+        {
+          "order": 2,
+          "name": "Freeman, F",
+          "id": 518692,
+          "position": "1B"
+        },
+        {
+          "order": 3,
+          "name": "Hern\u00e1ndez, T",
+          "id": 606192,
+          "position": "LF"
+        },
+        {
+          "order": 4,
+          "name": "Tucker",
+          "id": 663656,
+          "position": "RF"
+        },
+        {
+          "order": 5,
+          "name": "Muncy",
+          "id": 571970,
+          "position": "3B"
+        },
+        {
+          "order": 6,
+          "name": "Rushing",
+          "id": 687221,
+          "position": "C"
+        },
+        {
+          "order": 7,
+          "name": "Pages, A",
+          "id": 681624,
+          "position": "CF"
+        },
+        {
+          "order": 8,
+          "name": "Kim, Hy",
+          "id": 808975,
+          "position": "SS"
+        },
+        {
+          "order": 9,
+          "name": "Freeland, A",
+          "id": 690976,
+          "position": "2B"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Dodgers Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Dodgers Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "824687": {
+      "game_id": 824687,
+      "home_team": "Cubs",
+      "home_abbrev": "CHC",
+      "away_team": "D-backs",
+      "away_abbrev": "ARI",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Hoerner",
+          "id": 663538,
+          "position": "2B"
+        },
+        {
+          "order": 2,
+          "name": "Ballesteros",
+          "id": 694208,
+          "position": "DH"
+        },
+        {
+          "order": 3,
+          "name": "Bregman",
+          "id": 608324,
+          "position": "3B"
+        },
+        {
+          "order": 4,
+          "name": "Happ",
+          "id": 664023,
+          "position": "LF"
+        },
+        {
+          "order": 5,
+          "name": "Suzuki",
+          "id": 673548,
+          "position": "RF"
+        },
+        {
+          "order": 6,
+          "name": "Busch",
+          "id": 683737,
+          "position": "1B"
+        },
+        {
+          "order": 7,
+          "name": "Kelly, C",
+          "id": 608348,
+          "position": "C"
+        },
+        {
+          "order": 8,
+          "name": "Crow-Armstrong",
+          "id": 691718,
+          "position": "CF"
+        },
+        {
+          "order": 9,
+          "name": "Swanson",
+          "id": 621020,
+          "position": "SS"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Marte, K",
+          "id": 606466,
+          "position": "2B"
+        },
+        {
+          "order": 2,
+          "name": "Perdomo",
+          "id": 672695,
+          "position": "SS"
+        },
+        {
+          "order": 3,
+          "name": "Carroll",
+          "id": 682998,
+          "position": "RF"
+        },
+        {
+          "order": 4,
+          "name": "Vargas, I",
+          "id": 545121,
+          "position": "1B"
+        },
+        {
+          "order": 5,
+          "name": "Arenado",
+          "id": 571448,
+          "position": "3B"
+        },
+        {
+          "order": 6,
+          "name": "Gurriel Jr.",
+          "id": 666971,
+          "position": "LF"
+        },
+        {
+          "order": 7,
+          "name": "Moreno",
+          "id": 672515,
+          "position": "C"
+        },
+        {
+          "order": 8,
+          "name": "Fernandez, Jo",
+          "id": 699912,
+          "position": "DH"
+        },
+        {
+          "order": 9,
+          "name": "Barrosa",
+          "id": 678489,
+          "position": "CF"
+        }
+      ],
+      "home_pitcher": {
+        "name": "D-backs Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "D-backs Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "824364": {
+      "game_id": 824364,
+      "home_team": "Rockies",
+      "home_abbrev": "COL",
+      "away_team": "Braves",
+      "away_abbrev": "ATL",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Julien",
+          "id": 666397,
+          "position": "2B"
+        },
+        {
+          "order": 2,
+          "name": "Moniak",
+          "id": 666160,
+          "position": "LF"
+        },
+        {
+          "order": 3,
+          "name": "Goodman",
+          "id": 696100,
+          "position": "DH"
+        },
+        {
+          "order": 4,
+          "name": "Rumfield",
+          "id": 681198,
+          "position": "1B"
+        },
+        {
+          "order": 5,
+          "name": "Johnston, T",
+          "id": 687859,
+          "position": "RF"
+        },
+        {
+          "order": 6,
+          "name": "Castro, W",
+          "id": 650489,
+          "position": "3B"
+        },
+        {
+          "order": 7,
+          "name": "Sullivan, B",
+          "id": 664954,
+          "position": "C"
+        },
+        {
+          "order": 8,
+          "name": "Tovar",
+          "id": 678662,
+          "position": "SS"
+        },
+        {
+          "order": 9,
+          "name": "McCarthy",
+          "id": 664983,
+          "position": "CF"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Dub\u00f3n",
+          "id": 643289,
+          "position": "CF"
+        },
+        {
+          "order": 2,
+          "name": "Baldwin, D",
+          "id": 686948,
+          "position": "DH"
+        },
+        {
+          "order": 3,
+          "name": "Albies",
+          "id": 645277,
+          "position": "2B"
+        },
+        {
+          "order": 4,
+          "name": "Olson",
+          "id": 621566,
+          "position": "1B"
+        },
+        {
+          "order": 5,
+          "name": "Riley, A",
+          "id": 663586,
+          "position": "3B"
+        },
+        {
+          "order": 6,
+          "name": "White, E",
+          "id": 642201,
+          "position": "LF"
+        },
+        {
+          "order": 7,
+          "name": "Heim",
+          "id": 641680,
+          "position": "C"
+        },
+        {
+          "order": 8,
+          "name": "Mateo",
+          "id": 622761,
+          "position": "SS"
+        },
+        {
+          "order": 9,
+          "name": "Azocar",
+          "id": 640492,
+          "position": "RF"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Braves Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Braves Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "825013": {
+      "game_id": 825013,
+      "home_team": "Athletics",
+      "home_abbrev": "OAK",
+      "away_team": "Guardians",
+      "away_abbrev": "CLE",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Wilson, J",
+          "id": 805779,
+          "position": "SS"
+        },
+        {
+          "order": 2,
+          "name": "Rooker",
+          "id": 667670,
+          "position": "DH"
+        },
+        {
+          "order": 3,
+          "name": "Kurtz",
+          "id": 701762,
+          "position": "1B"
+        },
+        {
+          "order": 4,
+          "name": "Thomas, C",
+          "id": 687515,
+          "position": "RF"
+        },
+        {
+          "order": 5,
+          "name": "Gelof",
+          "id": 680869,
+          "position": "CF"
+        },
+        {
+          "order": 6,
+          "name": "Soderstrom",
+          "id": 691016,
+          "position": "LF"
+        },
+        {
+          "order": 7,
+          "name": "Wynns, A",
+          "id": 642851,
+          "position": "C"
+        },
+        {
+          "order": 8,
+          "name": "Hernaiz",
+          "id": 687231,
+          "position": "3B"
+        },
+        {
+          "order": 9,
+          "name": "McNeil",
+          "id": 643446,
+          "position": "2B"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Kwan",
+          "id": 680757,
+          "position": "LF"
+        },
+        {
+          "order": 2,
+          "name": "DeLauter",
+          "id": 800050,
+          "position": "RF"
+        },
+        {
+          "order": 3,
+          "name": "Ram\u00edrez, Jo",
+          "id": 608070,
+          "position": "DH"
+        },
+        {
+          "order": 4,
+          "name": "Manzardo",
+          "id": 700932,
+          "position": "1B"
+        },
+        {
+          "order": 5,
+          "name": "Schneemann",
+          "id": 682177,
+          "position": "3B"
+        },
+        {
+          "order": 6,
+          "name": "Bazzana",
+          "id": 683953,
+          "position": "2B"
+        },
+        {
+          "order": 7,
+          "name": "Halpin",
+          "id": 690984,
+          "position": "CF"
+        },
+        {
+          "order": 8,
+          "name": "Hedges",
+          "id": 595978,
+          "position": "C"
+        },
+        {
+          "order": 9,
+          "name": "Rocchio",
+          "id": 677587,
+          "position": "SS"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Guardians Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Guardians Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "824043": {
+      "game_id": 824043,
+      "home_team": "Angels",
+      "home_abbrev": "LAA",
+      "away_team": "Mets",
+      "away_abbrev": "NYM",
+      "home_lineup": [],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Bichette",
+          "id": 666182,
+          "position": "SS"
+        },
+        {
+          "order": 2,
+          "name": "Soto, J",
+          "id": 665742,
+          "position": "DH"
+        },
+        {
+          "order": 3,
+          "name": "Melendez, M",
+          "id": 669004,
+          "position": "LF"
+        },
+        {
+          "order": 4,
+          "name": "Baty",
+          "id": 683146,
+          "position": "3B"
+        },
+        {
+          "order": 5,
+          "name": "Semien",
+          "id": 543760,
+          "position": "2B"
+        },
+        {
+          "order": 6,
+          "name": "Benge",
+          "id": 701807,
+          "position": "RF"
+        },
+        {
+          "order": 7,
+          "name": "Vientos",
+          "id": 668901,
+          "position": "1B"
+        },
+        {
+          "order": 8,
+          "name": "Taylor, T",
+          "id": 621438,
+          "position": "CF"
+        },
+        {
+          "order": 9,
+          "name": "Torrens",
+          "id": 620443,
+          "position": "C"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Mets Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Mets Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": false
+    },
+    "823145": {
+      "game_id": 823145,
+      "home_team": "Mariners",
+      "home_abbrev": "SEA",
+      "away_team": "Royals",
+      "away_abbrev": "KC",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Refsnyder",
+          "id": 608701,
+          "position": "DH"
+        },
+        {
+          "order": 2,
+          "name": "Rodr\u00edguez, J",
+          "id": 677594,
+          "position": "CF"
+        },
+        {
+          "order": 3,
+          "name": "Naylor, J",
+          "id": 647304,
+          "position": "1B"
+        },
+        {
+          "order": 4,
+          "name": "Arozarena",
+          "id": 668227,
+          "position": "LF"
+        },
+        {
+          "order": 5,
+          "name": "Crawford, J",
+          "id": 641487,
+          "position": "SS"
+        },
+        {
+          "order": 6,
+          "name": "Young",
+          "id": 702284,
+          "position": "2B"
+        },
+        {
+          "order": 7,
+          "name": "Joe",
+          "id": 656582,
+          "position": "RF"
+        },
+        {
+          "order": 8,
+          "name": "Pereda",
+          "id": 640902,
+          "position": "C"
+        },
+        {
+          "order": 9,
+          "name": "Rivas",
+          "id": 660844,
+          "position": "3B"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Garcia, M",
+          "id": 672580,
+          "position": "3B"
+        },
+        {
+          "order": 2,
+          "name": "Witt Jr.",
+          "id": 677951,
+          "position": "SS"
+        },
+        {
+          "order": 3,
+          "name": "Pasquantino",
+          "id": 686469,
+          "position": "1B"
+        },
+        {
+          "order": 4,
+          "name": "Perez, S",
+          "id": 521692,
+          "position": "DH"
+        },
+        {
+          "order": 5,
+          "name": "Jensen",
+          "id": 695600,
+          "position": "C"
+        },
+        {
+          "order": 6,
+          "name": "Caglianone",
+          "id": 695506,
+          "position": "RF"
+        },
+        {
+          "order": 7,
+          "name": "Collins",
+          "id": 686555,
+          "position": "LF"
+        },
+        {
+          "order": 8,
+          "name": "Massey",
+          "id": 686681,
+          "position": "2B"
+        },
+        {
+          "order": 9,
+          "name": "Isbel",
+          "id": 664728,
+          "position": "CF"
+        }
+      ],
+      "home_pitcher": {
+        "name": "Royals Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Royals Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "823307": {
+      "game_id": 823307,
+      "home_team": "Padres",
+      "home_abbrev": "SD",
+      "away_team": "White Sox",
+      "away_abbrev": "CHW",
+      "home_lineup": [
+        {
+          "order": 1,
+          "name": "Laureano",
+          "id": 657656,
+          "position": "LF"
+        },
+        {
+          "order": 2,
+          "name": "Andujar",
+          "id": 609280,
+          "position": "DH"
+        },
+        {
+          "order": 3,
+          "name": "Merrill",
+          "id": 701538,
+          "position": "CF"
+        },
+        {
+          "order": 4,
+          "name": "Machado, M",
+          "id": 592518,
+          "position": "3B"
+        },
+        {
+          "order": 5,
+          "name": "Bogaerts",
+          "id": 593428,
+          "position": "SS"
+        },
+        {
+          "order": 6,
+          "name": "France, T",
+          "id": 664034,
+          "position": "1B"
+        },
+        {
+          "order": 7,
+          "name": "Castellanos, N",
+          "id": 592206,
+          "position": "RF"
+        },
+        {
+          "order": 8,
+          "name": "Fermin",
+          "id": 666023,
+          "position": "C"
+        },
+        {
+          "order": 9,
+          "name": "Cronenworth",
+          "id": 630105,
+          "position": "2B"
+        }
+      ],
+      "away_lineup": [
+        {
+          "order": 1,
+          "name": "Antonacci",
+          "id": 803011,
+          "position": "LF"
+        },
+        {
+          "order": 2,
+          "name": "Murakami",
+          "id": 808959,
+          "position": "1B"
+        },
+        {
+          "order": 3,
+          "name": "Benintendi",
+          "id": 643217,
+          "position": "DH"
+        },
+        {
+          "order": 4,
+          "name": "Montgomery, C",
+          "id": 695657,
+          "position": "3B"
+        },
+        {
+          "order": 5,
+          "name": "Meidroth",
+          "id": 805367,
+          "position": "2B"
+        },
+        {
+          "order": 6,
+          "name": "Kelenic",
+          "id": 672284,
+          "position": "RF"
+        },
+        {
+          "order": 7,
+          "name": "Peters",
+          "id": 671976,
+          "position": "CF"
+        },
+        {
+          "order": 8,
+          "name": "Acu\u00f1a",
+          "id": 682668,
+          "position": "SS"
+        },
+        {
+          "order": 9,
+          "name": "Romo",
+          "id": 691011,
+          "position": "C"
+        }
+      ],
+      "home_pitcher": {
+        "name": "White Sox Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "White Sox Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": true
+    },
+    "824285": {
+      "game_id": 824285,
+      "home_team": "Tigers",
+      "home_abbrev": "DET",
+      "away_team": "Rangers",
+      "away_abbrev": "TEX",
+      "home_lineup": [],
+      "away_lineup": [],
+      "home_pitcher": {
+        "name": "Rangers Pitchers",
+        "id": 0
+      },
+      "away_pitcher": {
+        "name": "Rangers Pitchers",
+        "id": 0
+      },
+      "lineup_confirmed": false
+    }
+  },
+  "_metadata": {
+    "updated": "2026-05-03T13:19:00.472434",
+    "cache_name": "lineups"
+  }
+}

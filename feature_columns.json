@@ -1,0 +1,38 @@
+{
+  "all_features": [
+    "player_name",
+    "opponent_team",
+    "prop_type",
+    "closing_line",
+    "season_avg",
+    "last_10_avg",
+    "last_5_avg",
+    "minutes_avg",
+    "days_rest",
+    "is_home",
+    "is_b2b",
+    "line_vs_season",
+    "line_vs_recent",
+    "form_trend",
+    "games_played"
+  ],
+  "categorical_features": [
+    "player_name",
+    "opponent_team",
+    "prop_type"
+  ],
+  "numeric_features": [
+    "closing_line",
+    "season_avg",
+    "last_10_avg",
+    "last_5_avg",
+    "minutes_avg",
+    "days_rest",
+    "is_home",
+    "is_b2b",
+    "line_vs_season",
+    "line_vs_recent",
+    "form_trend",
+    "games_played"
+  ]
+}

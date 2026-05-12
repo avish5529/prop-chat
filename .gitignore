@@ -1,0 +1,49 @@
+# Environment and secrets
+.env
+*.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Database (contains your predictions)
+*.db
+*.db-journal
+
+# Cache files
+*_cache.json
+scrape_cache.json
+dvp_cache.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files (large)
+*.cbm
+
+# Temporary files
+*.tmp
+*.bak
+~$*
+
+# Large training data files
+training_data*.csv
+backtest_data*.csv
+
+# V3 files (failed experiment)
+*_v3.py
+*_v3.json
+*_v3.csv

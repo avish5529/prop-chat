@@ -1,0 +1,131 @@
+{
+  "season": 2026,
+  "count": 30,
+  "parks": {
+    "Tropicana Field": {
+      "team": "TBR",
+      "k_factor": 1.06
+    },
+    "T-Mobile Park": {
+      "team": "SEA",
+      "k_factor": 1.05
+    },
+    "Oracle Park": {
+      "team": "SFG",
+      "k_factor": 1.04
+    },
+    "Oakland Coliseum": {
+      "team": "OAK",
+      "k_factor": 1.03
+    },
+    "Petco Park": {
+      "team": "SDP",
+      "k_factor": 1.02
+    },
+    "loanDepot park": {
+      "team": "MIA",
+      "k_factor": 1.02
+    },
+    "Dodger Stadium": {
+      "team": "LAD",
+      "k_factor": 1.01
+    },
+    "Kauffman Stadium": {
+      "team": "KCR",
+      "k_factor": 1.01
+    },
+    "Citi Field": {
+      "team": "NYM",
+      "k_factor": 1.01
+    },
+    "Yankee Stadium": {
+      "team": "NYY",
+      "k_factor": 1.0
+    },
+    "Wrigley Field": {
+      "team": "CHC",
+      "k_factor": 1.0
+    },
+    "Busch Stadium": {
+      "team": "STL",
+      "k_factor": 1.0
+    },
+    "Truist Park": {
+      "team": "ATL",
+      "k_factor": 1.0
+    },
+    "Camden Yards": {
+      "team": "BAL",
+      "k_factor": 1.0
+    },
+    "Progressive Field": {
+      "team": "CLE",
+      "k_factor": 1.0
+    },
+    "Comerica Park": {
+      "team": "DET",
+      "k_factor": 1.0
+    },
+    "Target Field": {
+      "team": "MIN",
+      "k_factor": 1.0
+    },
+    "Guaranteed Rate Field": {
+      "team": "CHW",
+      "k_factor": 1.0
+    },
+    "Globe Life Field": {
+      "team": "TEX",
+      "k_factor": 1.0
+    },
+    "Minute Maid Park": {
+      "team": "HOU",
+      "k_factor": 1.0
+    },
+    "Angel Stadium": {
+      "team": "LAA",
+      "k_factor": 1.0
+    },
+    "Rogers Centre": {
+      "team": "TOR",
+      "k_factor": 1.0
+    },
+    "Nationals Park": {
+      "team": "WSN",
+      "k_factor": 1.0
+    },
+    "PNC Park": {
+      "team": "PIT",
+      "k_factor": 1.0
+    },
+    "American Family Field": {
+      "team": "MIL",
+      "k_factor": 1.0
+    },
+    "Citizens Bank Park": {
+      "team": "PHI",
+      "k_factor": 0.99
+    },
+    "Great American Ball Park": {
+      "team": "CIN",
+      "k_factor": 0.98
+    },
+    "Fenway Park": {
+      "team": "BOS",
+      "k_factor": 0.97
+    },
+    "Chase Field": {
+      "team": "ARI",
+      "k_factor": 0.96
+    },
+    "Coors Field": {
+      "team": "COL",
+      "k_factor": 0.88
+    }
+  },
+  "_metadata": {
+    "updated": "2026-04-17T15:17:39.585083",
+    "source": "Research-based factors (FanGraphs/Statcast studies)",
+    "note": "K-specific factors derived from park environment research"
+  }
+}

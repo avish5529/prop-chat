@@ -1,0 +1,56 @@
+{
+  "raw_metrics": {
+    "val_brier": 0.2287910775599375,
+    "val_ece": 0.06299194240776437,
+    "test_brier": 0.22922800300771198,
+    "test_ece": 0.02067231851098545
+  },
+  "calibrated_metrics": {
+    "val_brier": 0.2804840055634892,
+    "val_ece": 0.17828489334168537,
+    "test_brier": 0.2648918856284837,
+    "test_ece": 0.135607560220383
+  },
+  "by_prop_type": {
+    "assists": {
+      "n_samples": 235,
+      "accuracy": 0.5276595744680851,
+      "brier_score": 0.2490951680919728
+    },
+    "pa": {
+      "n_samples": 235,
+      "accuracy": 0.4978723404255319,
+      "brier_score": 0.25218553803385774
+    },
+    "points": {
+      "n_samples": 235,
+      "accuracy": 0.5106382978723404,
+      "brier_score": 0.2524711597089783
+    },
+    "pr": {
+      "n_samples": 235,
+      "accuracy": 0.5319148936170213,
+      "brier_score": 0.24985296781178787
+    },
+    "pra": {
+      "n_samples": 235,
+      "accuracy": 0.8893617021276595,
+      "brier_score": 0.1027331155169379
+    },
+    "ra": {
+      "n_samples": 234,
+      "accuracy": 0.5299145299145299,
+      "brier_score": 0.24756457177359473
+    },
+    "rebounds": {
+      "n_samples": 235,
+      "accuracy": 0.5063829787234042,
+      "brier_score": 0.25077152806904984
+    }
+  },
+  "bankroll_simulation": {
+    "final_bankroll": 2488.729999999998,
+    "roi": 24.445484400656785,
+    "win_rate": 0.6518883415435139
+  }
+}

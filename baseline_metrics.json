@@ -1,0 +1,139 @@
+{
+  "train": {
+    "split": "Training",
+    "accuracy": 0.5532634705833814,
+    "log_loss": 0.6561698292564957,
+    "brier_score": 0.23426199412777365,
+    "precision_over": 0.7045717592592593,
+    "recall_over": 0.3566198008201523,
+    "f1_over": 0.4735511474134578,
+    "precision_under": 0.4929008426642041,
+    "recall_under": 0.807030807030807,
+    "f1_under": 0.6120108929339257
+  },
+  "val": {
+    "split": "Validation",
+    "accuracy": 0.574496644295302,
+    "log_loss": 0.6347323505994431,
+    "brier_score": 0.2246309893932321,
+    "precision_over": 0.7469879518072289,
+    "recall_over": 0.3694874851013111,
+    "f1_over": 0.4944178628389155,
+    "precision_under": 0.5079069767441861,
+    "recall_under": 0.8387096774193549,
+    "f1_under": 0.6326767091541136
+  },
+  "test": {
+    "split": "Test",
+    "accuracy": 0.5559610705596107,
+    "log_loss": 0.6602677104190522,
+    "brier_score": 0.2361481684043262,
+    "precision_over": 0.6789366053169734,
+    "recall_over": 0.36685082872928176,
+    "f1_over": 0.4763271162123386,
+    "precision_under": 0.5038961038961038,
+    "recall_under": 0.7875507442489851,
+    "f1_under": 0.614572333685322
+  },
+  "roi_validation": {
+    "0.5": {
+      "n_bets": 1490,
+      "n_over_bets": 415,
+      "n_under_bets": 1075,
+      "wins": 856,
+      "win_rate": 0.574496644295302,
+      "profit": 144.18960000000004,
+      "roi": 9.67715436241611
+    },
+    "0.55": {
+      "n_bets": 757,
+      "n_over_bets": 252,
+      "n_under_bets": 505,
+      "wins": 492,
+      "win_rate": 0.6499339498018494,
+      "profit": 182.2772,
+      "roi": 24.07889035667107
+    },
+    "0.6": {
+      "n_bets": 348,
+      "n_over_bets": 218,
+      "n_under_bets": 130,
+      "wins": 278,
+      "win_rate": 0.7988505747126436,
+      "profit": 182.7298,
+      "roi": 52.508563218390805
+    },
+    "0.65": {
+      "n_bets": 229,
+      "n_over_bets": 207,
+      "n_under_bets": 22,
+      "wins": 212,
+      "win_rate": 0.925764192139738,
+      "profit": 175.7292,
+      "roi": 76.73764192139738
+    },
+    "0.7": {
+      "n_bets": 197,
+      "n_over_bets": 192,
+      "n_under_bets": 5,
+      "wins": 188,
+      "win_rate": 0.9543147208121827,
+      "profit": 161.9108,
+      "roi": 82.1882233502538
+    }
+  },
+  "roi_test": {
+    "0.5": {
+      "n_bets": 1644,
+      "n_over_bets": 489,
+      "n_under_bets": 1155,
+      "wins": 914,
+      "win_rate": 0.5559610705596107,
+      "profit": 100.91740000000004,
+      "roi": 6.138527980535283
+    },
+    "0.55": {
+      "n_bets": 945,
+      "n_over_bets": 329,
+      "n_under_bets": 616,
+      "wins": 552,
+      "win_rate": 0.5841269841269842,
+      "profit": 108.82319999999999,
+      "roi": 11.515682539682539
+    },
+    "0.6": {
+      "n_bets": 482,
+      "n_over_bets": 286,
+      "n_under_bets": 196,
+      "wins": 321,
+      "win_rate": 0.6659751037344398,
+      "profit": 130.8211,
+      "roi": 27.141307053941908
+    },
+    "0.65": {
+      "n_bets": 315,
+      "n_over_bets": 250,
+      "n_under_bets": 65,
+      "wins": 247,
+      "win_rate": 0.7841269841269841,
+      "profit": 156.5477,
+      "roi": 49.69768253968254
+    },
+    "0.7": {
+      "n_bets": 238,
+      "n_over_bets": 216,
+      "n_under_bets": 22,
+      "wins": 197,
+      "win_rate": 0.8277310924369747,
+      "profit": 138.0927,
+      "roi": 58.02214285714285
+    }
+  },
+  "features": [
+    "line_vs_season",
+    "line_vs_recent",
+    "is_home",
+    "is_b2b",
+    "days_rest"
+  ]
+}

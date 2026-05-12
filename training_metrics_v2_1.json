@@ -1,0 +1,134 @@
+{
+  "cv_results": {
+    "overall_accuracy": 0.560546875,
+    "overall_brier_score": 0.24911979053225997,
+    "n_folds": 5,
+    "fold_details": [
+      {
+        "fold": 1,
+        "accuracy": 0.5825242718446602,
+        "brier_score": 0.24935792820018648,
+        "n_samples": 103
+      },
+      {
+        "fold": 2,
+        "accuracy": 0.5533980582524272,
+        "brier_score": 0.2491891900734447,
+        "n_samples": 103
+      },
+      {
+        "fold": 3,
+        "accuracy": 0.5490196078431373,
+        "brier_score": 0.24840740710033044,
+        "n_samples": 102
+      },
+      {
+        "fold": 4,
+        "accuracy": 0.5588235294117647,
+        "brier_score": 0.24970740558928925,
+        "n_samples": 102
+      },
+      {
+        "fold": 5,
+        "accuracy": 0.5588235294117647,
+        "brier_score": 0.24893400662737156,
+        "n_samples": 102
+      }
+    ]
+  },
+  "feature_importance": {
+    "closing_line": 17.085854189176388,
+    "avg_vs_opponent": 17.085296792142692,
+    "last_10_avg": 8.239796434900095,
+    "player_position": 7.6766726949571105,
+    "opp_def_rating": 7.51169971722035,
+    "dvp_rank": 7.203190892913673,
+    "season_avg": 5.470835821211315,
+    "line_difficulty": 5.245908909372109,
+    "dvp_allowed": 4.667912323404508,
+    "line_vs_last_5": 4.108091068527413,
+    "days_rest": 3.84452841100983,
+    "opp_pace": 3.689689753479734,
+    "consistency": 2.5890234882675323,
+    "line_vs_season": 1.2293152894712702,
+    "prop_type": 1.1821499980542796,
+    "std_dev": 0.8951458219487541,
+    "minutes_avg": 0.7574997638253141,
+    "is_home": 0.7501031402805011,
+    "is_b2b": 0.4186734249671999,
+    "opponent_team": 0.34861206486993807
+  },
+  "prop_type_accuracy": {
+    "assists": {
+      "total": 44,
+      "accuracy": 0.5227272727272727
+    },
+    "pa": {
+      "total": 32,
+      "accuracy": 0.625
+    },
+    "points": {
+      "total": 181,
+      "accuracy": 0.5580110497237569
+    },
+    "pr": {
+      "total": 49,
+      "accuracy": 0.5918367346938775
+    },
+    "pra": {
+      "total": 98,
+      "accuracy": 0.4897959183673469
+    },
+    "ra": {
+      "total": 67,
+      "accuracy": 0.6119402985074627
+    },
+    "rebounds": {
+      "total": 41,
+      "accuracy": 0.6097560975609756
+    }
+  },
+  "roi_simulation": {
+    "threshold_52": {
+      "threshold": 0.52,
+      "total_bets": 17,
+      "wins": 10,
+      "hit_rate": 0.5882352941176471,
+      "roi": 0.12299465240641719
+    }
+  },
+  "model_params": {
+    "iterations": 300,
+    "learning_rate": 0.03,
+    "depth": 4,
+    "l2_leaf_reg": 10,
+    "min_data_in_leaf": 20,
+    "random_seed": 42,
+    "loss_function": "Logloss",
+    "eval_metric": "AUC",
+    "verbose": false
+  },
+  "features": [
+    "opponent_team",
+    "prop_type",
+    "player_position",
+    "closing_line",
+    "season_avg",
+    "last_10_avg",
+    "std_dev",
+    "minutes_avg",
+    "is_home",
+    "is_b2b",
+    "days_rest",
+    "opp_def_rating",
+    "opp_pace",
+    "avg_vs_opponent",
+    "line_vs_season",
+    "line_vs_last_5",
+    "line_difficulty",
+    "consistency",
+    "dvp_rank",
+    "dvp_allowed"
+  ],
+  "training_samples": 128
+}
